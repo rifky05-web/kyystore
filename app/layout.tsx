@@ -7,8 +7,8 @@ import { ThemeProvider } from "@/components/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-   title: "IMPHNEN - Ingin Menjadi Programmer Handal?",
-   description: "Komunitas belajar programming untuk semua level",
+   title: "KYY STORE",
+   description: "CLOUD STORE FAST 100%",
 };
 
 export default function RootLayout({
